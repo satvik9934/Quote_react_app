@@ -1,1 +1,1 @@
-# Hosted Link :  https://quote-react-app-1.netlify.app/
+# Hosted Link :  https://quotereactapp1.netlify.app/
